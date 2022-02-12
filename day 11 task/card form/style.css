@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:black
+}
+
+.container{
+    background-color: white;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+form{
+    background-color: white;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.flname{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+input{
+    border: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.csz{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.state{
+    width: 100px;
+}
+
+#address{
+    width: 98%;
+}
+
+label{
+    font-weight: bold;
+    font-size: small;
+    font-weight: bolder;
+}
+
+
+
+.heading{
+    background-color: red;
+    color: white;
+    padding: 5px;
+     margin: 0px;
+}
